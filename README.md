@@ -1,2 +1,2 @@
 # dictionary-replacer
-Kata: http://codingdojo.org/
+KataDictionaryReplacer from http://codingdojo.org/
